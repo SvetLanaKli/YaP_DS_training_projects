@@ -8,8 +8,8 @@
 * **Scikit-learn**
 * Seaborn
 * Matplotlib
-* бутстреп
-* регрессия
+* Bootstrap
+ 
 
 ## Общий вывод
 
