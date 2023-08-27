@@ -5,6 +5,7 @@
 
 ## Навыки и инстументы
 * **Pandas**
+* **Numpy**
 * **Scikit-learn**
 * Seaborn
 * Matplotlib
