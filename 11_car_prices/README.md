@@ -7,8 +7,8 @@
 ## Навыки и инструменты
 * **Pandas**
 * **Scikit-learn**
-* LightGBM
-* CatBoost
+* **LightGBM**
+* **CatBoost**
 * Seaborn
 * Matplotlib
 
