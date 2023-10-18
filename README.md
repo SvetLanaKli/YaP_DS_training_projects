@@ -14,6 +14,4 @@
 | [Стоимость авто](11_car_prices) | Разработка системы рекомендации стоимости автомобиля на основе его описания, которая должна удовляетворять не только по качеству предсказания, но и скорости обучения и предсказания| *Python*, *Pandas*,  *Numpy*, *Sсikit-learn*, *Matplotlib*, *Seaborn*, *Catboost*, *LightGBM*, *phik*, *category_encoders*|
 | [Заказы такси](12_taxi_orders) | Разработка системы предсказания количества заказов такси на следующий час.| *Python*, *Pandas*,  *Numpy*, *Sсikit-learn*, *Statsmodels*, *Matplotlib*, *Seaborn*, *Catboost*, *LightGBM*|
 | [Классификация комментов](13_comments_clf) | Определение токсичности комментарии - построение модели для классификации комментариев на позитивные и негативные.| *Python*, *Pandas*,  *Numpy*, *Sсikit-learn*, *LightGBM*, *Textblob*, *nltk*, *td-idf*|
-
-
-
+| [Температура стали](000_final_steel) | Предсказание температуры стали - подготовка прототипа модели для предсказания температуры для повышения эергоэффективности производства.| *Python*, *Pandas*,  *Numpy*, *Sсikit-learn*, *Matplotlib*, *Seaborn*, *Catboost*, *LightGBM*|
